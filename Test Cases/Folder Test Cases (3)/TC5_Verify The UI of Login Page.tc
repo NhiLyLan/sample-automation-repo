@@ -16,18 +16,18 @@ Given that the user has valid login information
 When he logins to CURA system
 Then he should be able to login successfully</comment>
    <recordOption>OTHER</recordOption>
-   <testCaseGuid>5b2e3210-3535-11f0-9907-e544c6d1650a</testCaseGuid>
+   <testCaseGuid>04bb116e-3544-11f0-a909-f76b66e177e4</testCaseGuid>
    <variable>
       <defaultValue>'John Doe'</defaultValue>
       <description></description>
-      <id>5b2e32b0-3535-11f0-9907-e544c6d1650a</id>
+      <id>04bb1204-3544-11f0-a909-f76b66e177e4</id>
       <masked>false</masked>
       <name>Username</name>
    </variable>
    <variable>
       <defaultValue>'ThisIsNotAPassword'</defaultValue>
       <description></description>
-      <id>5b2e32e2-3535-11f0-9907-e544c6d1650a</id>
+      <id>04bb1236-3544-11f0-a909-f76b66e177e4</id>
       <masked>false</masked>
       <name>Password</name>
    </variable>
